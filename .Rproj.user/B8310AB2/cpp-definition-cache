@@ -1,0 +1,35 @@
+[
+    {
+        "file": "/home/gar305/Documents/geostack/r_binding/testSingleton/src/glue.cpp",
+        "file_last_write": 1708516688.0,
+        "definitions": [],
+        "hidden": false
+    },
+    {
+        "file": "/home/gar305/Documents/geostack/r_binding/testSingleton/src/rcpp_hello_world.cpp",
+        "file_last_write": 1708515975.0,
+        "definitions": [
+            {
+                "usr": "c:@F@rcpp_hello_world#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rcpp_hello_world",
+                "file": "/home/gar305/Documents/geostack/r_binding/testSingleton/src/rcpp_hello_world.cpp",
+                "line": 7,
+                "column": 6,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Foo@F@getFoo#S",
+                "kind": 7,
+                "parent_name": "Foo",
+                "name": "getFoo",
+                "file": "/home/gar305/Documents/geostack/r_binding/testSingleton/src/rcpp_hello_world.cpp",
+                "line": 16,
+                "column": 11,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    }
+]

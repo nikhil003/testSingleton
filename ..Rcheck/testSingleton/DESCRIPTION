@@ -1,0 +1,14 @@
+Package: testSingleton
+Type: Package
+Title: What the Package Does in One 'Title Case' Line
+Version: 1.0
+Date: 2024-02-21
+Author: Your Name
+Maintainer: Your Name <your@email.com>
+Description: One paragraph description of what the package does
+       as one or more full sentences.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.12)
+LinkingTo: Rcpp
+RoxygenNote: 7.3.1
+Built: R 4.3.2; x86_64-pc-linux-gnu; 2024-02-22 01:48:04 UTC; unix

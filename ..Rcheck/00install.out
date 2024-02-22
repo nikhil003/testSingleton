@@ -1,0 +1,18 @@
+* installing *source* package ‘testSingleton’ ...
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0’
+make: Nothing to be done for 'all'.
+make: 'symbols.rds' is up to date.
+installing to /home/gar305/Documents/geostack/r_binding/testSingleton/..Rcheck/00LOCK-testSingleton/00new/testSingleton/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (testSingleton)
