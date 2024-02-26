@@ -1,3 +1,6 @@
+#ifndef FOO_H
+#define FOO_H
+
 #include <iostream>
 
 class Foo {
@@ -45,3 +48,5 @@ class FooWrapper {
 };
 
 FooWrapper GetFoo();
+
+#endif

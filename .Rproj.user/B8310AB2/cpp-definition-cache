@@ -1,13 +1,50 @@
 [
     {
+        "file": "/home/gar305/Documents/geostack/r_binding/testSingleton/src/foo.cpp",
+        "file_last_write": 1708566089.0,
+        "definitions": [
+            {
+                "usr": "c:@S@Foo@F@getFoo#S",
+                "kind": 7,
+                "parent_name": "Foo",
+                "name": "getFoo",
+                "file": "/home/gar305/Documents/geostack/r_binding/testSingleton/src/foo.cpp",
+                "line": 3,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@FooWrapper@F@SayHello#",
+                "kind": 7,
+                "parent_name": "FooWrapper",
+                "name": "SayHello",
+                "file": "/home/gar305/Documents/geostack/r_binding/testSingleton/src/foo.cpp",
+                "line": 12,
+                "column": 18,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@GetFoo#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "GetFoo",
+                "file": "/home/gar305/Documents/geostack/r_binding/testSingleton/src/foo.cpp",
+                "line": 17,
+                "column": 12,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
         "file": "/home/gar305/Documents/geostack/r_binding/testSingleton/src/glue.cpp",
-        "file_last_write": 1708516688.0,
+        "file_last_write": 1708566430.0,
         "definitions": [],
         "hidden": false
     },
     {
         "file": "/home/gar305/Documents/geostack/r_binding/testSingleton/src/rcpp_hello_world.cpp",
-        "file_last_write": 1708515975.0,
+        "file_last_write": 1708547188.0,
         "definitions": [
             {
                 "usr": "c:@F@rcpp_hello_world#",
@@ -15,18 +52,8 @@
                 "parent_name": "",
                 "name": "rcpp_hello_world",
                 "file": "/home/gar305/Documents/geostack/r_binding/testSingleton/src/rcpp_hello_world.cpp",
-                "line": 7,
+                "line": 5,
                 "column": 6,
-                "hidden": false
-            },
-            {
-                "usr": "c:@S@Foo@F@getFoo#S",
-                "kind": 7,
-                "parent_name": "Foo",
-                "name": "getFoo",
-                "file": "/home/gar305/Documents/geostack/r_binding/testSingleton/src/rcpp_hello_world.cpp",
-                "line": 16,
-                "column": 11,
                 "hidden": false
             }
         ],
